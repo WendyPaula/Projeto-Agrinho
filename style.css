@@ -5,19 +5,19 @@
 body {
     font-family: 'Poppins', sans-serif;
 }
-
-    .cabecalho{
-        background-color: #0b870f;
-        color: white;
-        display: flex;
-        justify-content: space-around;    
-        align-items: center;
-        padding: 0 24px ;
-}
-.cabecalho-img{
-    width: 15%;
+.cab{
+    background-color: #0b870f;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0 24px;
 }
 
+.cab-img{
+    width: 10%;
+}
+    
 .lista-itens{
     display: inline-block;
     margin: 5px 16px;
