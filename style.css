@@ -14,9 +14,9 @@ body {
         align-items: center;
         padding: 0 24px ;
 }
-
-
-
+.cabecalho-imagem{
+    width: 20%;
+}
 
 .lista-itens{
     display: inline-block;
