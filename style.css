@@ -28,14 +28,13 @@ body {
     width: 30%;
 }
 
-
 .tec-agro{
-    background-color: linear-gradient(#0C8A84,#146319);
-    color:white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 24px 0;
+    background-color: linear-gradient (#0C8A84,#146319);
+color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 24px 0;
 }
 
 .tec-agro-div-conteudo{
