@@ -11,5 +11,6 @@
 
 .lista-itens{
     display: inline-block;
-    margin: 2px 16px;
+    margin: 5px 16px;
+    font-size: 24px;
 }
