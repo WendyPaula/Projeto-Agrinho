@@ -9,7 +9,7 @@ body {
 
     .itens-cabecalho{
         background-color: #0b870f;
-        color: white;
+        color: rgb(30, 66, 224);
         display: flex;
         justify-content: space-around;    
         align-items: center;
