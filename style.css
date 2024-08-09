@@ -9,3 +9,7 @@
     width: 30%;
     height: 30%;
 }
+
+.lista-itens{
+    display: inline;block-size: auto;
+}
