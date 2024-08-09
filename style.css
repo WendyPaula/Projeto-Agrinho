@@ -31,7 +31,7 @@ body {
 }
 
 .tec-agro{
-    background-image: linear-gradient(#0C8A84,#146319);
+    background-color: linear-gradient(#0C8A84,#146319);
     color:white;
     display: flex;
     justify-content: center;
