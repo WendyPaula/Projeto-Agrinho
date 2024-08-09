@@ -10,5 +10,6 @@
 }
 
 .lista-itens{
-    display: inline;block-size: auto;
+    display: inline-block;
+    margin: o 16px;
 }
