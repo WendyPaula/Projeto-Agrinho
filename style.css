@@ -30,7 +30,7 @@ body {
     width: 25%;
 }
 
-.tec-agro-div-conteudo{
+.tec-agro{
     background-color: linear-gradient(#0C8A84,#146319);
     color:white;
     display: flex;
@@ -39,7 +39,7 @@ body {
     padding: 24px 0;
 }
 
-.tec-agro-imagem{
+.tec-agro-div-conteudo{
     width: 35%;
 }
 
