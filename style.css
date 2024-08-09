@@ -15,7 +15,8 @@ body {
         padding: 0 24px ;
 }
 .cabecalho-img{
-  }
+    width: auto;
+}
 
 .lista-itens{
     display: inline-block;
