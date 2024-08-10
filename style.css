@@ -32,7 +32,7 @@ body {
 
    
 
-.tec-agro{
+.agro{
     background-color: linear-gradient (#0C8A84,#146319);
 color: rgb(148, 0, 0);
 display: flex;
@@ -41,12 +41,12 @@ align-items: center;
 padding: 24px 0;
 }
 
-.tec-agro-div-conteudo{
+.agro-div-conteudo{
     width: 35%;
 }
 
 
-.tec-agro-titulo-um{
+.agro-titulo-um{
     padding: 14px 14px;
 }
 
